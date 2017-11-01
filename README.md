@@ -6,6 +6,10 @@ webstorm eslint flow workflow
 
 代码规范
 
+```bash
+npm install eslint babel-eslint --save-dev
+```
+
 ### eslint-plugin-flowtype
 
 flow类型标注代码规范
